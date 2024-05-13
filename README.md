@@ -14,14 +14,12 @@
 1.Clone รีโพสิทอรีนี้ไปยังเครื่องคอมพิวเตอร์ของคุณ<br>
 2.เปิดไฟล์ index.html ในเว็บเบราว์เซอร์<br>
   <br><br><br><br><br><br>
-<b>เพิ่มเติม</b>
-<p>เพิ่มเสียงเพื่อช่วยในการแสดงลำดับของ Simon</p>
-<p>เพิ่มการบันทึกคะแนนสูงสุดของผู้เล่น</p>
-<p>เพิ่มเวลาที่ Simon แสดงลำดับให้สั้นลงเรื่อยๆ เพื่อเพิ่มความท้าทาย</p>
+<b>เพิ่มเติม</b><br>
+-เพิ่มเสียงเพื่อช่วยในการแสดงลำดับของ Simon<br>
+-เพิ่มการบันทึกคะแนนสูงสุดของผู้เล่น<br>
+-เพิ่มเวลาที่ Simon แสดงลำดับให้สั้นลงเรื่อยๆ เพื่อเพิ่มความท้าทาย<br>
 
 
-
-โดยระบบพัฒนาโดยใช้ ดังต่อไปนี้
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
